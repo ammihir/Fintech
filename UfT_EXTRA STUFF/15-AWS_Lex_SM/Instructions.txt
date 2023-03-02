@@ -1,0 +1,9 @@
+
+
+
+To do this exercise, you need to refer to homework instructions of
+setting up Amazon Lex, which is basically a finite set of instructions to 
+execute a chat response. And then the LAMBDA functions are used to validate
+the resonses
+
+The lex is made up of slots, intents, and later the lambda function(python script) which needs to be copied.
